@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quadtree">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/br/edu/unisinos/est1/quadtree" />
+    </SOURCES>
+  </library>
+</component>
